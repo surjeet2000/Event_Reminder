@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Event Reminder</string>
+    <string name="action_settings">Settings</string>
+    <string name="UserProfile">User profile</string>
+    <string-array name="severity_array">
+        <item>COLD</item>
+        <item>WARM</item>
+        <item>HOT</item>
+    </string-array>
+</resources>
